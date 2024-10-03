@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+*{
+	background-color:lightgray;
+}
+table{
+	border:1px solid gray;
+}
+.first_column{
+	width:200px;
+}
+.Middle_column{
+	width:600px;
+}
+.Last_column{
+	width:200px;
+}
